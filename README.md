@@ -36,37 +36,37 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="45" alt="flutter logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5 logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="jupyter logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="17" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
 </div>
 
